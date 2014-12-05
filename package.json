@@ -14,5 +14,12 @@
     "browserify"
   ],
   "author": "Ben West",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bewest/serial-chromeify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bewest/serial-chromeify/issues"
+  }
 }
