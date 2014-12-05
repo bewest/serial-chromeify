@@ -1,0 +1,18 @@
+{
+  "name": "serial-chromeify",
+  "version": "0.0.0",
+  "description": "node bidirectional stream interface for chrome serial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stream",
+    "node",
+    "chrome",
+    "app",
+    "browserify"
+  ],
+  "author": "Ben West",
+  "license": "BSD-2-Clause"
+}
